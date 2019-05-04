@@ -16,4 +16,4 @@ EscapeRoom/Content/StarterContent/
 *.db
 *.opendb
 *.suo
-
+.vs/
